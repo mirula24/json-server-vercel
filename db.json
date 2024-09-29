@@ -50,7 +50,15 @@
       "artinya": "Bersabarlah, dan kesabaranmu itu hanya dengan pertolongan Allah, dan janganlah engkau bersedih hati terhadap (kekafiran) mereka dan jangan (pula) merasa sempit terhadap apa yang mereka tipu dayakan."
     }
   ],
-  "captionForReview":[],
+  "captionForReview": [
+    {
+      "id": "1",
+      "teksArab": "القدار",
+      "teksLatin": "Allah plan is better than your dreams",
+      "ayat": "اَيُّهَا الَّذِيْنَ اٰمَنُوا اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّۖ اِنَّ بَعْضَ الظَّنِّ اِثْمٌ وَّلَا تَجَسَّسُوْا وَلَا يَغْتَبْ بَّعْضُكُمْ بَعْضًاۗ اَيُحِبُّ اَحَدُكُمْ اَنْ يَّأْكُلَ لَحْمَ اَخِيْهِ مَيْتًا فَكَرِهْتُمُوْهُۗ وَاتَّقُوا اللّٰهَ ۗاِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ",
+      "artinya": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang."
+    }
+  ],
   "doa": [
     {
       "id": "1",
