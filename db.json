@@ -2,63 +2,55 @@
   "caption": [
     {
       "id": "1",
-      "teksArab": "القدار",
-      "teksLatin": "Allah plan is better than your dreams",
-      "ayat": "اَيُّهَا الَّذِيْنَ اٰمَنُوا اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّۖ اِنَّ بَعْضَ الظَّنِّ اِثْمٌ وَّلَا تَجَسَّسُوْا وَلَا يَغْتَبْ بَّعْضُكُمْ بَعْضًاۗ اَيُحِبُّ اَحَدُكُمْ اَنْ يَّأْكُلَ لَحْمَ اَخِيْهِ مَيْتًا فَكَرِهْتُمُوْهُۗ وَاتَّقُوا اللّٰهَ ۗاِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ",
-      "artinya": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang."
+      "baris1": "القدار",
+      "baris2": "Allah plan is better than your dreams",
+      "baris3": "اَيُّهَا الَّذِيْنَ اٰمَنُوا اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّۖ اِنَّ بَعْضَ الظَّنِّ اِثْمٌ وَّلَا تَجَسَّسُوْا وَلَا يَغْتَبْ بَّعْضُكُمْ بَعْضًاۗ اَيُحِبُّ اَحَدُكُمْ اَنْ يَّأْكُلَ لَحْمَ اَخِيْهِ مَيْتًا فَكَرِهْتُمُوْهُۗ وَاتَّقُوا اللّٰهَ ۗاِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ",
+      "baris4": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang."
     },
     {
       "id": "2",
-      "teksArab": "",
-      "teksLatin": "Dua hal yang harus kita ingat :",
-      "ayat": "Kebaikan orang lain terhadap kita dan Keburukan kita terhadap orang lain",
-      "artinya": "by : Ustadz Handy Bonny"
+      "baris1": "",
+      "baris2": "Dua hal yang harus kita ingat :",
+      "baris3": "Kebaikan orang lain terhadap kita dan Keburukan kita terhadap orang lain",
+      "baris4": "by : Ustadz Handy Bonny"
     },
     {
       "id": "3",
-      "teksArab": "",
-      "teksLatin": "Dua hal yang harus kita Lupakan :",
-      "ayat": "Kebaikan kita terhadap Orang lain dan Keburukan Orang lain terhadap kita",
-      "artinya": "by : Ustadz Handy Bonny"
+      "baris1": "",
+      "baris2": "Dua hal yang harus kita Lupakan :",
+      "baris3": "Kebaikan kita terhadap Orang lain dan Keburukan Orang lain terhadap kita",
+      "baris4": "by : Ustadz Handy Bonny"
     },
     {
       "id": "4",
-      "teksArab": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
-      "teksLatin": "And in the heaven is your provision and whatever you are promised",
-      "ayat": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
-      "artinya": "Dan di langit terdapat rezekimu dan apa yang dijanjikan kepadamu."
+      "baris1": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "baris2": "And in the heaven is your provision and whatever you are promised",
+      "baris3": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "baris4": "Dan di langit terdapat rezekimu dan apa yang dijanjikan kepadamu."
     },
     {
       "id": "5",
-      "teksArab": "اِنَّ اللّٰهَ مَعَ الصَّابِرِيْنَ",
-      "teksLatin": "Indeed, Allah is with the patient",
-      "ayat": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
-      "artinya": "Wahai orang-orang yang beriman! Mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar."
+      "baris1": "اِنَّ اللّٰهَ مَعَ الصَّابِرِيْنَ",
+      "baris2": "Indeed, Allah is with the patient",
+      "baris3": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "baris4": "Wahai orang-orang yang beriman! Mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar."
     },
     {
       "id": "6",
-      "teksArab": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
-      "teksLatin": "My success is only by Allah",
-      "ayat": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
-      "artinya": "Dan tidak ada taufik bagiku melainkan dengan (pertolongan) Allah. Hanya kepada-Nya aku bertawakkal dan hanya kepada-Nya aku kembali."
+      "baris1": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
+      "baris2": "My success is only by Allah",
+      "baris3": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "baris4": "Dan tidak ada taufik bagiku melainkan dengan (pertolongan) Allah. Hanya kepada-Nya aku bertawakkal dan hanya kepada-Nya aku kembali."
     },
     {
       "id": "7",
-      "teksArab": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
-      "teksLatin": "Be patient, and your patience is only through Allah",
-      "ayat": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
-      "artinya": "Bersabarlah, dan kesabaranmu itu hanya dengan pertolongan Allah, dan janganlah engkau bersedih hati terhadap (kekafiran) mereka dan jangan (pula) merasa sempit terhadap apa yang mereka tipu dayakan."
+      "baris1": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+      "baris2": "Be patient, and your patience is only through Allah",
+      "baris3": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+      "baris4": "Bersabarlah, dan kesabaranmu itu hanya dengan pertolongan Allah, dan janganlah engkau bersedih hati terhadap (kekafiran) mereka dan jangan (pula) merasa sempit terhadap apa yang mereka tipu dayakan."
     }
   ],
-  "captionForReview": [
-    {
-      "id": "1",
-      "teksArab": "القدار",
-      "teksLatin": "Allah plan is better than your dreams",
-      "ayat": "اَيُّهَا الَّذِيْنَ اٰمَنُوا اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّۖ اِنَّ بَعْضَ الظَّنِّ اِثْمٌ وَّلَا تَجَسَّسُوْا وَلَا يَغْتَبْ بَّعْضُكُمْ بَعْضًاۗ اَيُحِبُّ اَحَدُكُمْ اَنْ يَّأْكُلَ لَحْمَ اَخِيْهِ مَيْتًا فَكَرِهْتُمُوْهُۗ وَاتَّقُوا اللّٰهَ ۗاِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ",
-      "artinya": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang."
-    }
-  ],
+
   "doa": [
     {
       "id": "1",
